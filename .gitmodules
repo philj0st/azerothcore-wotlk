@@ -1,0 +1,3 @@
+[submodule "modules/mod-challenge-modes"]
+	path = modules/mod-challenge-modes
+	url = https://github.com/outtieTV/mod-challenge-modes-hotfix.git
