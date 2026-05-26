@@ -4,3 +4,6 @@
 [submodule "modules/mod-playerbots"]
 	path = modules/mod-playerbots
 	url = git@github.com:mod-playerbots/mod-playerbots.git
+[submodule "modules/mod-individual-progression"]
+	path = modules/mod-individual-progression
+	url = git@github.com:ZhengPeiRu21/mod-individual-progression.git
