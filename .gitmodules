@@ -1,3 +1,6 @@
 [submodule "modules/mod-challenge-modes"]
 	path = modules/mod-challenge-modes
 	url = https://github.com/outtieTV/mod-challenge-modes-hotfix.git
+[submodule "modules/mod-playerbots"]
+	path = modules/mod-playerbots
+	url = git@github.com:mod-playerbots/mod-playerbots.git
