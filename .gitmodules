@@ -10,3 +10,6 @@
 [submodule "modules/mod-ah-bot-plus"]
 	path = modules/mod-ah-bot-plus
 	url = git@github.com:NathanHandley/mod-ah-bot-plus.git
+[submodule "modules/mod-ollama-chat"]
+	path = modules/mod-ollama-chat
+	url = git@github.com:DustinHendrickson/mod-ollama-chat.git
