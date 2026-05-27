@@ -13,3 +13,6 @@
 [submodule "modules/mod-ollama-chat"]
 	path = modules/mod-ollama-chat
 	url = git@github.com:DustinHendrickson/mod-ollama-chat.git
+[submodule "ollama"]
+	path = ollama
+	url = git@github.com:eyalrot/ollama_openai.git
